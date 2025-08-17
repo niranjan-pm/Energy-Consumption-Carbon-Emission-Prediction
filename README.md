@@ -1,4 +1,4 @@
-Energy Consumption & Carbon Emission Prediction
+# Energy Consumption & Carbon Emission Prediction
 
 Built Random Forest/Gradient Boosting regression models predicting energy consumption across 176 countries.   
 Applied KNN imputation, scaling, encoding, and recursive feature elimination for improving model performance.  
